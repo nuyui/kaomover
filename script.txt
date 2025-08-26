@@ -1,0 +1,45 @@
+@echo off
+:: -----------------------------
+:: moves all .package and .ts4script files from Downloads to Sims 4 Mods
+:: -----------------------------
+
+:: source folder (your downloads folder)
+set source=%USERPROFILE%\Downloads
+
+:: destination folder (ts4 mod folder {please make sure to change the "your_name"})
+set destination="C:\Users\your_name\Documents\Electronic Arts\The Sims 4\Mods"
+
+echo moving .package and .ts4script files...
+move "%source%\*.package" %destination%
+move "%source%\*.ts4script" %destination%
+echo done!! kao moved all files to your mods folder, enjoy \(^_^)/
+pause
+
+
+[ please delete this once you're done reading, do not save this text inside the file at all thank you. 
+
+
+ :: INSTRUCTIONS ::
+
+
+replace the placeholder text " your_name" with your windows username.
+
+example : C:\Users\nuyui\Documents\Electronic Arts\The Sims 4\Mods
+
+
+(optional) if your .package files are stored somewhere other than downloads, replace downloads with that path.
+
+example: set source=%USERPROFILE%\sims_files_here_only
+
+
+(optional) if you want the files moved to a specific subfolder, add \folder_name to the destination path.
+
+example : C:\Users\nuyui\Documents\Electronic Arts\The Sims 4\Mods\cas
+
+press "file > save as >"
+
+select all files as the file type (DO NOT SAVE IT AS A TXT)
+
+before saving rename "chosen_name.bat"
+
+run the script, and voilà!! ]
