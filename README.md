@@ -51,4 +51,4 @@ pssssst… for silly people like me and kao who prefer watching instead of readi
 
 ---
 
-<small>this is owned completely by me. i took my time out to write this code and i'll appreciate it so much if it doesn't get stolen or claimed as someone elses, thank you lots mwa !! &lt;3</small>
+<small>this is owned completely by me. i took my time out to write this code and i'll appreciate it so much if it doesn't get stolen or claimed as someone elses, thank you lots mwa !!</small>
