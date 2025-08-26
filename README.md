@@ -27,7 +27,7 @@ if you don’t want to download a .bat file directly, that’s totally fine! me 
 - run the script.  
 - watch kao put your files into place 🐾  
 - done ヽ(￣ω￣(。。 )ゝ  
-- enjoy your organized sims 4 mods folder 😸  
+- enjoy your organized sims 4 mods folder 
 
 ---
 
