@@ -1,6 +1,9 @@
+<img width="838" height="501" alt="image" src="https://github.com/user-attachments/assets/cdc69d55-b296-4e2e-8bf6-c22a5f74c6a1" />
+
+---
       /\_/\  
      ( o.o )   kao is ready to organize your mods :3
-     >📂 <
+     > 📂 <
 
 hi everyone! thank you so much for stopping by to meet kao, your adorable little helper for sims 4 mods! he is very, very happi :3  
 
