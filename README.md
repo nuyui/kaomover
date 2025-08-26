@@ -19,8 +19,22 @@ if you don’t want to download a .bat file directly, that’s totally fine! me 
 
 ---
 
+## what is kao-mover ? 🐾
+
+kao-mover is a tiny helper for your Sims 4 mods & cc !! instead of sorting through all your .package files one by one, kao swoops in and moves them into the right folders for you. it's very simple: choose where your files live, pick where you want them to go, and kao does the rest :3 !! even giving you a log (optional) if you want to see exactly what moved.
+
+made with love and patience, kao-mover is perfect for anyone tired of manually organizing their sims 4 cc and mods. just run the script, watch kao do the work, and enjoy your tidy mods folder !!
+
+---
+
 ## updates
-08.26.25 – kao got even more helpful!! he can also move .ts4script files straight into your mods folder too :)  
+
+~~08.26.25 – kao got even more helpful!! he can also move .ts4script files straight into your mods folder too :)~~
+
+08.26.25 :
+      - nothing 
+      - here
+      - yet hehe
 
 ---
 
