@@ -25,6 +25,9 @@ kao-mover is a tiny helper for your Sims 4 mods & cc !! instead of sorting throu
 
 made with love and patience, kao-mover is perfect for anyone tired of manually organizing their sims 4 cc and mods. just run the script, watch kao do the work, and enjoy your tidy mods folder !!
 
+if there are any bugs or issues with the script, please be kind and let me know !!
+
+
 ---
 
 ## updates
@@ -59,10 +62,23 @@ pssssst… for silly people like me and kao who prefer watching instead of readi
 
 ---
 
+## tos/tou 
+
+- this script and all its code are completely owned by me. please don’t claim it as your own. 
+- kao-mover is made for your personal Sims 4 mods organization. commercial use is not allowed.
+- while kao tries his best, i'm not responsible if something goes wrong. back up your files before using!
+- dont re-upload the script elsewhere claiming it’s yours.
+
+thank you for respecting my work and letting kao help you organize your mods !!
+
+---
+
+
 ## links
 - [github](https://github.com/yourusername/kaomover)  
 - [video tutorial](https://youtube.com/...)
 
 ---
+
 
 <small>this is owned completely by me. i took my time out to write this code and i'll appreciate it so much if it doesn't get stolen or claimed as someone elses, thank you lots mwa !!</small>
