@@ -1,10 +1,9 @@
 @echo off
-:: download latest version from GitHub
-
 set "downloadUrl=https://raw.githubusercontent.com/nuyui/kaomover/main/kaomover/kaomover.bat"
-set "tempFile=%temp%\kaomover.bat"
+set "tempFile=%TEMP%\kaomover.bat"
 
-powershell -Command "(New-Object Net.WebClient).DownloadFile('%downloadUrl%', '%tempFile%')"
+powershell -NoProfile -Command "Try { Invoke-WebRequest -Uri '%downloadUrl%' -OutFile '%tempFile%' -UseBasicParsing } Catch { Exit 1 }"
 
-:: run the downloaded version
+if not exist "%tempFile%" exit /b 1
+
 call "%tempFile%"
