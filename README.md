@@ -47,4 +47,8 @@ pssssst… for silly people like me and kao who prefer watching instead of readi
 
 ## links
 - [github](https://github.com/yourusername/kaomover)  
-- [video tutorial](https://youtube.com/...)  
+- [video tutorial](https://youtube.com/...)
+
+---
+
+### this is owned completely by me. i took my time out to write this code and i'll appreciate it so much if it doesn't get stolen or claimed as someone elses, thank you lots mwa !! <3
