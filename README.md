@@ -3,7 +3,7 @@
 ---
       /\_/\  
      ( o.o )   kao is ready to organize your mods :3
-     > 📂 <
+     > 📁 <
 
 hi everyone! thank you so much for stopping by to meet kao, your adorable little helper for sims 4 mods! he is very, very happi :3  
 
@@ -35,7 +35,7 @@ if there are any bugs or issues with the script, please be kind and let me know 
 ~~08.26.25 – kao got even more helpful!! he can also move .ts4script files straight into your mods folder too :)~~
 
 08.27.25 :
-      - i just realized you could just drag and drop the folder/path you want instead of copying and pasting :o
+- able to drag and drop the folder/path you want instead of copying and pasting :o
 
 ---
 
@@ -56,7 +56,7 @@ if there are any bugs or issues with the script, please be kind and let me know 
 - (optional) if you want the files moved to a specific subfolder, add `\folder_name` to the destination path.  
 - make sure all folders exist—kao can’t put files into unknown places!  
 
-pssssst… for silly people like me and kao who prefer watching instead of reading, don’t worry! i’ll make a video tutorial soon 🐾  
+~~pssssst… for silly people like me and kao who prefer watching instead of reading, don’t worry! i’ll make a video tutorial soon 🐾~~
 
 ---
 
@@ -75,6 +75,8 @@ thank you for respecting my work and letting kao help you organize your mods !!
 ## links
 - [github](https://github.com/nuyui/kaomover)  
 - [discord server](https://discord.gg/hFafpMpVcS)
+- [pateron WIP](https://patreon.com/nuyai)
+- [tumblr WIP](https://nuyai.tumblr.com) 
 
 ---
 
