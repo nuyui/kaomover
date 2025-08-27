@@ -34,14 +34,12 @@ if there are any bugs or issues with the script, please be kind and let me know 
 
 ~~08.26.25 – kao got even more helpful!! he can also move .ts4script files straight into your mods folder too :)~~
 
-08.26.25 :
-      - nothing 
-      - here
-      - yet hehe
+08.27.25 :
+      - i just realized you could just drag and drop the folder/path you want instead of copying and pasting :o
 
 ---
 
-## installation (simple)
+## [installation (simple)](https://youtu.be/E2d5jZJVNYk)
 - download the .bat file from here
 - download your favorite cc or mods (make sure .package files are in your downloads folder).  
 - run the script.  
@@ -51,7 +49,7 @@ if there are any bugs or issues with the script, please be kind and let me know 
 
 ---
 
-## manual installation (a bit trickier)
+## [manual installation (a bit trickier)](https://youtu.be/Hy8G4N-qDXI)
 - download the github text file named `script.txt`.  
 - open it and replace the placeholder text with your windows username.  
 - (optional) if your .package files are stored somewhere other than downloads, replace `downloads` with that path.  
@@ -75,10 +73,10 @@ thank you for respecting my work and letting kao help you organize your mods !!
 
 
 ## links
-- [github](https://github.com/yourusername/kaomover)  
-- [video tutorial](https://youtube.com/...)
+- [github](https://github.com/nuyui/kaomover)  
+- [discord server](https://discord.gg/hFafpMpVcS)
 
 ---
 
 
-<small>this is owned completely by me. i took my time out to write this code and i'll appreciate it so much if it doesn't get stolen or claimed as someone elses, thank you lots mwa !!</small>
+
